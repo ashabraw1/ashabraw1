@@ -14,7 +14,8 @@
      - Case studies or practical scenarios where analytical thinking can pave the way for innovative solutions.
 
 - 📫 How to reach me
-   [![Email](https://img.shields.io/badge/Email-me%40domain.com-brightgreen)](a.ashabrawi@gmail.com)
+   "Find me at a.ashabrawi@gmail.com
+   
   
 
 
