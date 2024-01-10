@@ -14,7 +14,7 @@
      - Case studies or practical scenarios where analytical thinking can pave the way for innovative solutions.
 
 - 📫 How to reach me
-   "Find me at a.ashabrawi@gmail.com
+   Find me at a.ashabrawi@gmail.com
    
   
 
